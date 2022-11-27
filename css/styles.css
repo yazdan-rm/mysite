@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+    color:dimgray;
+
+}
+
+.top-container {
+    background: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    margin-bottom: 70px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+h1 {
+    color: #66BFBF;
+    margin: 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+p{
+    line-height: 2;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.yazdan-profile {
+    width: 20%;
+    height: normal;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.game {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 20px;
+}
+
+.programming {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: #e5e8e8;
+    height: 1px;
+    background-color: #fbfbfb;
+    width: 7%;
+}
+
+.btn {
+    border-radius: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fafafa;
+    font-size: 20px;
+    background: #11999E;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 50px auto;
+}
+
+.btn:hover {
+    text-decoration: none;
+    color: #e5e8e8;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 35px ;
+    padding-bottom: 15px;
+}
+
+.footer-link {
+    color: #11999E;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover {
+    color: #f5fefe;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.copyright {
+    color: #fbfbfb;
+    font-family: 'Montserrat', sans-serif;
+    font-size:0.75rem;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.intro{
+    width:30%;
+    margin:0 auto 25px auto;
+}
